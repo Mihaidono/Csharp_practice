@@ -1,0 +1,14 @@
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Compendium\ProiectePROG\VisualStudio\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
